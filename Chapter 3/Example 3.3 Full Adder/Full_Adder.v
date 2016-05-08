@@ -4,7 +4,7 @@ Feature:       Full adder for 1 bit math add
 Coder:         Garfield
 Organization:  XXXX Group, Department of Architecture
 ------------------------------------------------------
-Input ports:   a0, a1, 1 bit, addends
+Input Ports:   a0, a1, 1 bit, addends
                c0, 1 bit, carry bit from low bit
 Output Ports:  s, 1 bit, sum
                c1, 1 bit, carry bit
